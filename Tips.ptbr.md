@@ -1,6 +1,7 @@
 Course: https://balta.io/player/assistir/5c6b2cc2-e717-9a27-eb62-bae000000000/dc922dc3-1903-45f0-aa25-000071810105
 
-Repo: https://github.com/keodevspace/todo_angular
+Repo Balta.io: https://github.com/keodevspace/todo_angular
+Repo Prf. Ivirson: https://github.com/keodevspace/angular-i-santander?tab=readme-ov-file
 
 - @ na frente: decorator
 
